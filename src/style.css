@@ -1,0 +1,7 @@
+.hello {
+  color: blue;
+  background: url("./hand-icon.svg");
+  background-color: bisque;
+  background-repeat: no-repeat;
+  padding: 15px;
+}
